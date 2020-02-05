@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/pawoh/LSDC/_apis/build/status/SmartHotel_Petchecker-Web?branchName=master)](https://dev.azure.com/pawoh/LSDC/_build/latest?definitionId=3&branchName=master)
 # **The project SmartHotel360 have been retired, we have archived it. It is no longer maintained. You still can fork the repository.**
 
 ## For the latest sample references visit: https://aka.ms/tailwindtraders & https://aka.ms/rpsls 
